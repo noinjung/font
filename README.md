@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/gh/noinjung/font/roboto/style.css
 
 ### KoPubDotum
 ```
-https://cdn.jsdelivr.net/gh/noinjung/font/kopibdotum/style.css
+https://cdn.jsdelivr.net/gh/noinjung/font/kopibdotum/kopubdotum.css
 ```
 #라이선스 안내
 KoPub 서체의 지적재산권은 문화체육관광부와 한국출판인회의에 있습니다.
