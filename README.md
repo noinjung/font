@@ -9,12 +9,7 @@ https://cdn.jsdelivr.net/gh/noinjung/font/NanumSquare/style.css
 ```
 ### 이랜드 초이스체B
 ```
-@font-face {
-    font-family: 'ELAND_Choice_B';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Choice_B.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+https://github.com/noinjung/font/blob/main/eland.css
 ```
 
 ### agramondpro
