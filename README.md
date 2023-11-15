@@ -3,6 +3,11 @@
 https://cdn.jsdelivr.net/gh/noinjung/font/notosanskr/noto-sans-kr.css
 ```
 
+### 지마켓산스
+```
+https://cdn.jsdelivr.net/gh/noinjung/font/gmarketsans/gmarketsans.css
+```
+
 ### 나눔스퀘어
 ```
 https://cdn.jsdelivr.net/gh/noinjung/font/NanumSquare/style.css
